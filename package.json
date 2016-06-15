@@ -1,0 +1,11 @@
+{
+  "name": "experiment-loop",
+  "version": "1.0.0",
+  "description": "An application to organize and perform the Design Thinking Experimentation Loop",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rich Gomez <0xkione@gmail.com>",
+  "license": "MIT"
+}
